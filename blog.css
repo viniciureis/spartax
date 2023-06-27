@@ -1,0 +1,22 @@
+header{
+  background-color: yellow;
+  margin-left: -10px;
+  width: 98.9vw;
+  margin-top: -40px;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 0px;
+}
+img{
+  width: 80%;
+}
+h2{
+  margin-top: -10px ;
+}
+p{
+  font-size:13px;
+  margin-top: -5px;
+}

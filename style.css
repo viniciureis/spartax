@@ -1,0 +1,351 @@
+nav{
+  background: rgba(255, 255, 255, 0.85);
+  color: white;
+  position: relative;
+  display: inline;
+}
+
+.img{
+  height: 360px;
+}
+.logo{
+  width: 190px;
+  height: 120px;
+  margin-top: -25px;
+  margin-left: -410px;
+ 
+ 
+}
+.ul{
+ margin-left: 400px;
+ font-size: 30px;
+ list-style: none;
+ display: flex;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: red;
+  transition: unset;
+background: indianred;
+background-attachment: initial;
+height: 5px;
+background-repeat: initial;
+}
+
+li{
+  padding-top: 20px;
+padding-right: 30px;
+
+}
+
+
+.me{
+  background: rgb(223, 217, 217);
+}
+.nav-link{
+ color: red;
+}
+.fut{
+  display: grid;
+grid-template-columns: 1fr 1fr;
+padding-top: 40px;padding-left: 40px;
+padding-bottom: 40px;
+margin-top: 570px;
+
+}
+.jogadores{
+  width: 80%;
+  margin-left: 100px;
+  border-radius: 30px;
+  cursor: all-scroll;
+}
+
+.p{
+  font-size:220px;
+}
+.elenco{
+  text-align: center;
+  
+  padding-top: 40px;
+  color: white;
+}
+.fundo0{
+  background: rgb(158, 3, 3);
+width: 212.2%;
+margin-left: -80px;
+margin-right: -600px;
+margin-top: 40px;
+}
+.but{
+  border-color: red;
+  background: red;
+  color: white;
+  margin-top: 40px;
+  font-size: 1.6rem;
+  padding: 10px;
+  border-radius: 20px;
+}
+.but:hover{
+  background: yellow;
+  border-color: yellow;
+  color: black;
+
+  transition: 1s;
+  transition-delay: 370ms;}
+.scroll{
+
+ 
+  width: 90%;
+}
+.fundo{
+  position: absolute;
+ 
+  width: 98.7vw;
+  
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  margin-top: -40px;
+}
+
+.img2{
+  width: 100%;
+  
+  height: 660px;
+}
+span{
+  color: red;
+}
+h4{
+padding-left: 50px;
+}
+
+.insta{
+  width: 5%;
+  margin-top: -62px;
+ margin-left: 500px;
+position: static;
+}
+.insta2{
+  width: 5%;
+  margin-top: -62px;
+}
+.time{
+  width: 30%;
+padding-bottom: 50px;
+  margin-left: 20px;
+}
+.fd:hover{
+  background: none;
+}
+.test{
+  text-align: center;
+}
+.flex2{
+  display: flex;
+  padding-top: 20px;
+ 
+  
+}
+.shadow{
+  box-shadow: 1px 1px 1px 1px black;
+  height: 200px;
+ background-color: rgba(255, 255, 255, 0.396);
+  width: 550px;
+border-radius: 40px;
+margin-left: -40px;
+border: 1px solid;
+margin-bottom: -120px;padding-left: 30px;
+}
+.jogar{
+  margin-left: 20px;
+}
+.flex23{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 140px;
+}
+.time2{
+  border-radius: 40px;
+border-bottom-right-radius: 5px;
+border-top-right-radius: 5px;
+  margin-top: -20px;
+  margin-left: -30px;
+
+width: 50%;
+}
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.espartanos{
+  
+background: fixed url(img/torce.png)  center center;
+height: 300px;
+visibility: 0;
+
+  }
+.but2{
+  border-color: red;
+  background: red;
+  color: white;
+  font-size: 20px;
+ margin-left: 500px;
+  border-radius: 10px;
+margin-top: 140px;
+margin-bottom: 20px;
+}
+.conteudo{
+  color: rgb(255, 255, 255);
+  padding-left: 140px;
+  padding-top: 40px;
+}
+.paragrafo{
+  font-size: 20px;
+}
+.but23{
+  border-color: red;
+  background: red;
+  color: white;
+  margin-top: 20px;
+}
+.cot{
+  background-color: black;
+}
+
+.soccer{
+  width: 50%;
+  display: flex;
+ 
+  gap: 30px;
+
+}
+.elenco1{
+  color: yellow;
+  padding-left: 30px;
+  padding-top: 50px;
+  font-size: 23px;
+}
+.parceiros{
+  text-align: center;
+}
+.logo2{
+  width: 20%;
+}
+.flex33{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.gf{
+width: 30%;
+
+margin-left: 50px;
+}
+.section{
+  background-color: gray;
+}
+.fut2{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-top: 20px;
+  padding-right: 30px;
+  background-color: black;
+  padding-bottom: -270px;
+ 
+  color: white;
+}
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+} 
+.gf2{
+  display: flex;
+  width: 60%;
+
+
+  
+}
+.instagra{
+  width: 60%;
+  display: flex;
+ margin-left: -56px;
+}
+.sociais2{
+  display: flex;
+ 
+
+
+}
+.yout{
+  display: flex;
+  width: 20%;
+  margin-left: -80px;
+  height: 40%;
+  margin-top: 30px;
+}
+ul{
+  list-style: none;
+}
+.flex34{
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr;
+}
+.section2{
+  background-color: rgba(255, 0, 0, 0.303);
+}
+.card{
+  margin: 30px;
+}
+.play{
+width: 1225px;
+height: 300px;
+}
+.login{
+margin-top: -50px;padding-left: 512px;
+}
+
+footer{
+  background: black;
+  color: white;
+}
+.p2{
+ font-size: 14px;
+}
+.but3{
+  background-color: red;
+  color: white;
+  border-color: red;
+  border-radius: 10px;
+  margin-left: 10px;
+  
+}
+.but23:hover{
+  background-color: yellow;
+  border-color: yellow;
+  color: black;
+  transition: 1s;
+  transition-delay: 7ms;
+}
+.but2:hover{
+  background-color: yellow;
+  border-color: yellow;
+  color: black;
+  transition: 1s;
+  transition-delay: 7ms;
+}
+.but3:hover{
+  background-color: yellow;
+  border-color: yellow;
+  color: black;
+  transition: 1s;
+  transition-delay: 7ms;
+}
+.card{
+  display: flex;
+}
+
+
+.ver{
+  margin-left: -60px;
+  border-radius: 10px;
+}

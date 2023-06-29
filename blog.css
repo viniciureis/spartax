@@ -1,7 +1,7 @@
 header{
   background-color: yellow;
   margin-left: -10px;
-  width: 98.9vw;
+  width: 98.95vw;
   margin-top: -40px;
 }
 
@@ -19,4 +19,35 @@ h2{
 p{
   font-size:13px;
   margin-top: -5px;
+}
+.shadow{
+  width: 79%;
+  margin-left: 20px;
+ height: 220px;
+}
+.grid25{
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+}
+.margin{
+
+  margin-bottom: 20px;
+}
+
+a:hover{
+  background: none;
+  text-decoration: none;
+  color: white;
+}
+.shadow:hover{
+  background-color: blue;
+  color: white;
+  background-attachment: none;
+height: none;
+background-repeat: no-repeat;
+transition: none;
+}
+p{
+  font-size: 0.2em;
+  margin-top: -20px;
 }

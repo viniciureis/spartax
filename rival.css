@@ -16,3 +16,11 @@ main{
 span{
   color: red;
 }
+.grid4{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  margin-left: -20px;
+  width: 99.7vw;
+margin-bottom: -20px;
+ 
+}

@@ -58,3 +58,48 @@ h4{
   }.pf1{
     font-size: 17px;
   }
+  
+  p{
+    font-size: 15px;
+    
+  }
+  p+p{
+    padding-top: 20px;
+  }
+  
+  spam{
+    font-size: 20px;
+    
+  
+  }
+  .modal{
+    text-align: center;
+  }
+  .mg{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+  }
+  .contei{
+    text-align: center;
+  
+    padding: 20px;
+  }
+  h4{
+    padding-left: 160px;
+    color: blue;
+  }
+  #socios{
+    background-color: rgba(0, 0, 0, 0.468);
+    margin-left: -8px;
+ margin-bottom: -20px;
+ width: 98.72vw;
+   
+  }
+  h2{
+    color: white;
+  }
+  h3{
+    color: blue;
+  }
+ 

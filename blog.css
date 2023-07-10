@@ -2,7 +2,7 @@ header{
   background-color: black;
   margin-left: -10px;
   background: black;
-  width: 98.9vw;
+  width: 98.7vw;
   margin-top: -40px;
 }
 
@@ -62,4 +62,8 @@ margin-bottom: -20px;
 }
 .h{
   margin-top: 10px;
+  
+}
+footer{
+  width: 98.7vw;
 }

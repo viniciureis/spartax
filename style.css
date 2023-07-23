@@ -398,7 +398,21 @@ footer{
   .but2{
     margin-left: 0px;
   }
-}
-li+li{
-  gap: 20px;
+  li+li{
+    gap: 20px;
+  }
+  #footer li,ul {
+    margin-left: 0px;
+  }
+  .grid{
+    display: grid;
+    grid-template-columns: 1fr ;
+    color: white;
+    text-align: center;
+  }
+  .gf2,.instagra .yout{
+  margin-left: -20px;
+  gap: 2px;
+  margin-right: 0px;
+  }
 }

@@ -124,13 +124,14 @@ padding-left: 50px;
 
 .insta{
   width: 5%;
-  margin-top: -62px;
- margin-left: 500px;
-position: static;
+
 }
 .insta2{
-  width: 5%;
-  margin-top: -62px;
+  width: 85%;
+  margin-top: -45px;
+  margin-left: 500px;
+
+
 }
 .time{
   width: 30%;
@@ -414,5 +415,13 @@ footer{
   margin-left: -20px;
   gap: 2px;
   margin-right: 0px;
+  }
+  .insta2{
+    margin-top: 0px;
+   margin-left: 0px;
+   padding-left: 50px;
+  }
+  .insta{
+    width: 30%;
   }
 }

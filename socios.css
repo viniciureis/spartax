@@ -104,3 +104,14 @@ h4{
     border-radius: 20px;
     margin-left: 39px;
   }
+  @media (min-width:300px)and (max-width:500px){
+
+    *{
+      margin: 0;
+      padding: 0;
+    }
+    .logo{
+     display: none;
+    }
+  
+  }

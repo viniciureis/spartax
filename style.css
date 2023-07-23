@@ -368,5 +368,14 @@ footer{
   .logo{
    display: none;
   }
-
+  .fut{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  ul,li{
+   margin-left: -256px;
+   gap: 45px;
+   margin-right: 9px;
+ font-size: 13px;
+  }
 }

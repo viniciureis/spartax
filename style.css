@@ -359,3 +359,7 @@ margin: 0;
 height: 500;
 width: 0;
 }
+.play{
+  width: 98.75vw;
+  margin-bottom: 20px;
+}

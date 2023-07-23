@@ -347,3 +347,15 @@ footer{
  padding-bottom: 20px;
  
 }
+
+.soccer{
+  width: 40%;
+  gap: 10px;
+  display: flex;
+  margin-left: 40px;
+}
+a{
+margin: 0;
+height: 500;
+width: 0;
+}

@@ -399,3 +399,6 @@ footer{
     margin-left: 0px;
   }
 }
+li+li{
+  gap: 20px;
+}

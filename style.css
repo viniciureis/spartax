@@ -354,12 +354,19 @@ footer{
   display: flex;
   margin-left: 40px;
 }
-a{
-margin: 0;
-height: 500;
-width: 0;
-}
+
 .play{
   width: 98.75vw;
   margin-bottom: 20px;
+}
+@media (min-width:300px)and (max-width:500px){
+
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .logo{
+   display: none;
+  }
+
 }

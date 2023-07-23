@@ -213,14 +213,7 @@ margin-bottom: 20px;
   background-color: black;
 }
 
-.soccer{
-  width: 40%;
-  display: flex;
- text-align: center;
-  gap: 10px;
-  margin-left: 30px;
 
-}
 .elenco1{
   color: yellow;
   padding-left: 30px;

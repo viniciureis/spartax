@@ -124,14 +124,13 @@ padding-left: 50px;
 
 .insta{
   width: 5%;
-
+  margin-top: -62px;
+ margin-left: 500px;
+position: static;
 }
 .insta2{
-  width: 85%;
-  margin-top: -45px;
-  margin-left: 500px;
-
-
+  width: 5%;
+  margin-top: -62px;
 }
 .time{
   width: 30%;
@@ -214,7 +213,14 @@ margin-bottom: 20px;
   background-color: black;
 }
 
+.soccer{
+  width: 40%;
+  display: flex;
+ text-align: center;
+  gap: 10px;
+  margin-left: 30px;
 
+}
 .elenco1{
   color: yellow;
   padding-left: 30px;
@@ -340,26 +346,7 @@ footer{
 }
 
 
-.ver{
-  margin-left: -60px;
-  border-radius: 10px;
-}
-.ce{
- padding-bottom: 20px;
- 
-}
 
-.soccer{
-  width: 40%;
-  gap: 10px;
-  display: flex;
-  margin-left: 40px;
-}
-
-.play{
-  width: 98.75vw;
-  margin-bottom: 20px;
-}
 @media (min-width:300px)and (max-width:500px){
 
   *{

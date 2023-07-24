@@ -352,6 +352,9 @@ footer{
   *{
     margin: 0;
     padding: 0;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .logo{
    display: none;
@@ -410,5 +413,14 @@ footer{
   }
   .insta{
     width: 30%;
+  }
+  .play{
+    width: 99vw;
+  }
+  .but3{
+    
+  }
+  .login{
+    padding-left: 0px;
   }
 }

@@ -407,9 +407,7 @@ footer{
   margin-right: 0px;
   }
   .insta2{
-    margin-top: 0px;
-   margin-left: 0px;
-   padding-left: 50px;
+    display: none;
   }
   .insta{
     width: 30%;
@@ -417,9 +415,7 @@ footer{
   .play{
     width: 99vw;
   }
-  .but3{
-    
-  }
+ 
   .login{
     padding-left: 0px;
   }
